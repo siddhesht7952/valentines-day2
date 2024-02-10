@@ -41,7 +41,7 @@ function yesClick() {
 	yesBtn.remove();
 	question.remove();
 
-	para.innerText = "Hope to spend some time with you on Valentine's day🥹 \nI love you sweetheart!😚❤️❤️ ";
+	para.innerText = "hendrerit dolor magna eget est lorem ipsum dolor sit";
 
 	let gif = document.createElement("img")
 	gif.className = "excited";
